@@ -1,9 +1,15 @@
-# The Missing Semester of Your CS Education [[![Build Status](https://travis-ci.com/missing-semester/missing-semester.svg?branch=master)](https://travis-ci.com/missing-semester/missing-semester)]
+# The Missing Semester of Your CS Education
 
-Website for the [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) class!
+Основной сайт курса [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/).
 
-Contributions are most welcome! If you have edits or new content to add, please
-open an issue or submit a pull request.
+Перевод на русский: [Пропущенный семестр курса по компьютерным наукам](https://missing-semester-ru.github.io/).
+
+Перевод не авторизован. Вы можете принять участие в переводе лекций.
+
+## Переведенные лекции
+
+- Обзор курса + знакомство с оболочкой
+- Скрипты
 
 ## Development
 
